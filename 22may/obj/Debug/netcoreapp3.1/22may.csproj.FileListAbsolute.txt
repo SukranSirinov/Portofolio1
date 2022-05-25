@@ -298,3 +298,7 @@ C:\Users\tu7nwumeg\Desktop\24may-main\22may\obj\Debug\netcoreapp3.1\22may.dll
 C:\Users\tu7nwumeg\Desktop\24may-main\22may\obj\Debug\netcoreapp3.1\22may.pdb
 C:\Users\tu7nwumeg\Desktop\24may-main\22may\obj\Debug\netcoreapp3.1\22may.genruntimeconfig.cache
 C:\Users\tu7nwumeg\Desktop\24may-main\22may\obj\Debug\netcoreapp3.1\22may.csproj.CopyComplete
+C:\Users\tu7nwumeg\Desktop\24may-main\22may\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tu7nwumeg\Desktop\24may-main\22may\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewImports.cshtml.g.cs
+C:\Users\tu7nwumeg\Desktop\24may-main\22may\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewStart.cshtml.g.cs
+C:\Users\tu7nwumeg\Desktop\24may-main\22may\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Index.cshtml.g.cs

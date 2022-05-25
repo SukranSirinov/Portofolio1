@@ -47,6 +47,10 @@ namespace _22may
             app.UseStaticFiles();// Statik fayllardan istifade etmek ucun
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapControllerRoute(
+                    name: "areas",
+                    pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
+                    );
                 endpoints.MapDefaultControllerRoute();
             });
         }
